@@ -9,7 +9,7 @@ npm run server
 ```
 - will see the shape of projects and the data in  the  db.json file and the server will run on port 3001
 
-for  the frontend to run 
+for  the front to run 
 ```json
 npm run dev
 ```
@@ -27,5 +27,5 @@ I understand you need to see reflective data after updating the project, but I d
 
 
 
-- I did not try to use any other library for state management just used context and reducer that are built in react for just make code simple and did not use any external library just  to used powerfull of react.
+- I did not try to use any other library for state management just used context and reducer that is built in React for just make code simple and did not use any external library just to use the power of react.
 

@@ -1,31 +1,31 @@
 
 # Project Document
 
-- for  run backend  i used   ``` json-server``` will  see file to  run  it  using this command  json-server --watch db.json dont  forget  install  packages
-```pnpm  i```
- then  runt  
+- for  running the backend  I used   ``` json-server``` will  see the file to  run  it  using this command  json-server --watch db.json don't  forget  install  packages
+```pnpm  i```
+ then  runt  
 ```json
 npm run server
 ```
-- will see the shape of prjects and the data in  the  db.json file and the server will run on the port 3001
+- will see the shape of projects and the data in  the  db.json file and the server will run on port 3001
 
-for  frontend to run 
+for  the frontend to run 
 ```json
 npm run dev
 ```
 
-- some page like get data by id try to get id if some error happened may be redirect to another page for me just show error if business need to show 404 page we can do it.
+- Some pages, like get data by ID, try to get ID. If some error happens, it may redirect to another page. For me, just show the error. If businesses need to show a 404 page, we can do it.
 
 
-- any recommendation or other thing i can do it just tell me and i will do it as soon as possible
+- any recommendation or other thing I can do just tell me and I will do it as soon as possible
 
-- about  this "When update project name of a favorited project, the project name in "Favorite Projects" shall be updated as well. It is expected to be 
-implemented with a elegant solution"
-
-
-- here what i understand you need see reflective data after update  the  project so i dont know  id  that  what you need or not.
+- about this "When updating the project name of a favorited project, the project name in "Favorite Projects" shall be updated as well. It is expected to be 
+implemented with an elegant solution"
 
 
+I understand you need to see reflective data after updating the project, but I don't know if that's what you need.
 
-- i not try to used any other library for state management just use use context and reducer that build in react for just make code simple and not use any external library just  to used powerfull of react.
+
+
+- I did not try to use any other library for state management just used context and reducer that are built in react for just make code simple and did not use any external library just  to used powerfull of react.
 
